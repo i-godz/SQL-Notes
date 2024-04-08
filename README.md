@@ -51,10 +51,10 @@ If you find flaws and or misinformation in topic notes you'd like me to correct,
 
 ## 4.1. Courses
 
-### 4.1. Colt Steele
+### 4.1. 365datascience
 • Udemy course link: https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/
 
-### 4.2. 365datascience
+### 4.2. Colt Steele
 • Udemy course link: https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/
 
 ## 4.2. Books
